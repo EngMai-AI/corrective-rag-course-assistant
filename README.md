@@ -59,4 +59,6 @@ The course material and the API key are **not** included in this repository.
 Python · ChromaDB · sentence-transformers · Groq (gpt-oss) · LangChain text splitters · Gradio
 
 ## Author
-MAi Reda
+**Mai Reda**
+
+[GitHub](https://github.com/EngMai-AI) · [LinkedIn](https://www.linkedin.com/in/mai-reda-74477423b/) · [Kaggle](https://www.kaggle.com/mairedaai)
