@@ -61,4 +61,6 @@ Python · ChromaDB · sentence-transformers · Groq (gpt-oss) · LangChain text 
 ## Author
 **Mai Reda**
 
-[GitHub](https://github.com/EngMai-AI) · [LinkedIn](https://www.linkedin.com/in/mai-reda-74477423b/) · [Kaggle](https://www.kaggle.com/mairedaai)
+[![GitHub](https://img.shields.io/badge/GitHub-EngMai--AI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngMai-AI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mai%20Reda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-reda-74477423b/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-mairedaai-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mairedaai)
